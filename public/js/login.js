@@ -78,3 +78,10 @@ function validate()
     //   true;
     // }
 }
+
+
+setTimeout(function(){ 
+  logerror.innerHTML = "";
+ 
+  
+}, 4000);
